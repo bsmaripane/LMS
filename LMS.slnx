@@ -1,4 +1,6 @@
 <Solution>
+  <Folder Name="/Database/" />
+  <Folder Name="/Database/Scripts/" />
   <Project Path="LMS.API/LMS.API.csproj" />
   <Project Path="LMS.Client/LMS.Client.csproj" />
   <Project Path="LMS.Models/LMS.Models.csproj" />
