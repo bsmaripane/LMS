@@ -19,6 +19,8 @@ public class LearnerTests
             Assert.That(learner.FirstName, Is.EqualTo(string.Empty));
             Assert.That(learner.MiddleName, Is.Null);
             Assert.That(learner.LastName, Is.EqualTo(string.Empty));
+            Assert.That(learner.IdentificationNumber, Is.EqualTo(string.Empty));
+            Assert.That(learner.PhysicalAddress, Is.EqualTo(string.Empty));
         });
     }
 

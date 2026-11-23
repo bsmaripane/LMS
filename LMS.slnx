@@ -1,6 +1,13 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
   <Project Path="LMS.API/LMS.API.csproj" />
   <Project Path="LMS.Client/LMS.Client.csproj" />
+  <Project Path="LMS.Database/LMS.Database.sqlproj" Id="b9e730b3-4830-423f-ad1b-955f8f64e114">
+    <Build />
+    <Deploy />
+  </Project>
   <Project Path="LMS.Models/LMS.Models.csproj" />
   <Project Path="LMS.Repositories/LMS.Repositories.csproj" />
   <Project Path="LMS.RepositoriesTests/LMS.RepositoriesTests.csproj" Id="006d9bde-789b-4dc8-9a61-4b7a369c4809" />
