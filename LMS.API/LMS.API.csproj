@@ -13,4 +13,8 @@
     <PackageReference Include="Microsoft.Data.SqlClient" Version="7.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LMS.Repositories\LMS.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>
