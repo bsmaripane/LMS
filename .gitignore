@@ -96,6 +96,9 @@ secrets.json
 *.sqlite
 *.sqlite3
 
+# SQL Server generated files
+*.dbmdl
+
 # ==========================================
 # IDEs and editors
 # ==========================================
